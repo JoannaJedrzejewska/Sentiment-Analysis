@@ -9,7 +9,7 @@ Original file is located at
 #Youtube comments analysis
 
 ##Introduction <br>
-The purpose of this project is to analyze YouTube comments on chosen topic. IT explores the presence of positive, neutral andnegative sentiment and how certain topics and words correlate with user reactions.
+The purpose of this project is to analyze YouTube comments on chosen topic. It explores the presence of positive, neutral andnegative sentiment and how certain topics and words correlate with user reactions.
 
 Installing required packages
 """
